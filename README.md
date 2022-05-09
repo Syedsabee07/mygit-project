@@ -1,2 +1,2 @@
-# mygit-project
+# Syedgit-project
 myproject
