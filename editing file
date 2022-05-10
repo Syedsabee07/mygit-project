@@ -1,6 +1,7 @@
-this is my first edit on the git-hub 
-this is edited 
+<<<<<<< HEAD
+this is my 2branch
 
+<<<<<<< HEAD
 this is my branch edited file
 - 👋 Hi, I’m @Syedsabee07
 - 👀 I’m interested in ...
@@ -15,3 +16,13 @@ this is my branch edited file
 - 📫 How to reach me ...
 
 
+=======
+barcelona - mancity
+matchday 1 12-09-2022
+=======
+this is my mybranch 
+
+real-madrid
+liver-pool
+>>>>>>> mybranch
+>>>>>>> mybranch
